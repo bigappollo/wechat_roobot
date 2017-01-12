@@ -3,7 +3,7 @@ package me.biezhi.wechat.model;
 import com.blade.kit.DateKit;
 import com.blade.kit.json.JSONObject;
 
-import me.biezhi.wechat.Constant;
+import rob.wechat.Constant;
 
 public class WechatMeta {
 	

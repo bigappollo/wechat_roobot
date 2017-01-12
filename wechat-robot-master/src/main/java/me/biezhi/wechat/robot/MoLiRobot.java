@@ -3,7 +3,7 @@ package me.biezhi.wechat.robot;
 import com.blade.kit.StringKit;
 import com.blade.kit.http.HttpRequest;
 
-import me.biezhi.wechat.Constant;
+import rob.wechat.Constant;
 
 public class MoLiRobot implements Robot {
 

@@ -1,4 +1,4 @@
-package me.biezhi.wechat;
+package rob.wechat;
 
 import java.awt.EventQueue;
 import java.io.File;

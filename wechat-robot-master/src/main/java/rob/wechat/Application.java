@@ -1,4 +1,4 @@
-package me.biezhi.wechat;
+package rob.wechat;
 
 import com.blade.kit.base.Config;
 

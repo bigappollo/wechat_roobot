@@ -13,13 +13,13 @@ import com.blade.kit.json.JSONArray;
 import com.blade.kit.json.JSONKit;
 import com.blade.kit.json.JSONObject;
 
-import me.biezhi.wechat.Constant;
 import me.biezhi.wechat.exception.WechatException;
 import me.biezhi.wechat.model.WechatContact;
 import me.biezhi.wechat.model.WechatMeta;
 import me.biezhi.wechat.robot.MoLiRobot;
 import me.biezhi.wechat.robot.Robot;
 import me.biezhi.wechat.util.Matchers;
+import rob.wechat.Constant;
 
 public class WechatServiceImpl implements WechatService {
 
